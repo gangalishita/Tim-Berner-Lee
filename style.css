@@ -119,5 +119,16 @@ html {
 
 .contact_1 h3 {
    display: inline;
-    text-decoration: none !important;
+}
+
+.contact_1 a {
+   text-decoration: none !important;
+   color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+} 
+
+.contact_1{
+    text-align:center;
+    background-color:#a1bfff;
 }
